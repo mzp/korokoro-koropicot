@@ -1,0 +1,8 @@
+Temp/
+Library/
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+image*.png
+*.app
