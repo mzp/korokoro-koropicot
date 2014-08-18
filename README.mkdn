@@ -4,3 +4,6 @@ korokoro koropicot
 ![](https://raw.githubusercontent.com/mzp/korokoro-koropicot/master/misc/ponyu.png)
 
 
+## LICENSE
+### Stage Texture
+http://erihamu.blog.fc2.com/blog-entry-46.html
