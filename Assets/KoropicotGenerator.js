@@ -1,12 +1,9 @@
 #pragma strict
 
-var target : Rigidbody;
+var target  : Rigidbody;
 var basePos : Vector3 = new Vector3(0,0,0);
-
-function Start () {
-
-}
-
+var power   : float = 0.01;
+ 
 function FixedUpdate () {
   if (Input.GetMouseButtonDown(0)) {
      this.basePos = Input.mousePosition;
@@ -15,6 +12,6 @@ function FixedUpdate () {
     var y : float = Input.mousePosition.y - basePos.y;
     var x : float = Input.mousePosition.x - basePos.x;
 
-    target.AddForce(new Vector3(y/100, 0, x/100));
+    target.AddForce(new Vector3(x * power, 0, y * power), ForceMode.Impulse);
   }
 }
