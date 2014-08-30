@@ -4,6 +4,7 @@ korokoro koropicot
 ![](https://raw.githubusercontent.com/mzp/korokoro-koropicot/master/misc/ponyu.png)
 
 ころくん([@koropicot](https://twitter.com/koropicot))を転がすゲームです。
+転がすのが目的であり、特にゴール等はありません。
 
 ## 配布
 ### Web Player版
