@@ -3,7 +3,22 @@ korokoro koropicot
 
 ![](https://raw.githubusercontent.com/mzp/korokoro-koropicot/master/misc/ponyu.png)
 
+## 配布
+### Web Player版
+![](https://raw.githubusercontent.com/mzp/korokoro-koropicot/master/misc/demo.gif)
+http://mzp.github.io/korokoro-koropicot/demo/koropicot_v2.html
 
-## LICENSE
-### Stage Texture
-http://erihamu.blog.fc2.com/blog-entry-46.html
+マウスドラッグによりころくんを転がせます。
+
+### iPhoneアプリ版
+TBD
+
+## 各種ライセンス
+### ころくん
+https://twitter.com/koropicot/status/495575982070173696 にてCC0で配布されています。
+
+### ステージのテクスチャ
+[市松模様のフリー素材](http://erihamu.blog.fc2.com/blog-entry-46.html)にて配布されています。
+
+## それ以外
+MITライセンスで利用可能です。
