@@ -14,7 +14,7 @@ http://mzp.github.io/korokoro-koropicot/demo/koropicot_v2.html
 マウスドラッグによりころくんを転がせます。
 
 ### iPhoneアプリ版
-TBD
+動きます。各自でビルドしてください。
 
 ## 各種ライセンス
 ### ころくん
